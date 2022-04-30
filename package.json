@@ -1,0 +1,16 @@
+{
+  "name": "node--youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DgSantos017/NODE---Youtube.git",
+  "author": "Diogo <diogosantosferreira.01@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "sucrase": "^3.21.0"
+  }
+}
