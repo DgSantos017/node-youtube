@@ -2,6 +2,8 @@
 
 ## Tutorial de como rodar esse projeto na sua máquina
 
+(obs, se voce quiser ter diretamente na sua conta do github, faã o fork do repositório antes de qualuer passo abaixo)
+
 ### entre no terminal e rode os seguintes comandos
 
 #### 1 - faça o clone do repositório
