@@ -6,21 +6,18 @@
 
 #### 1 - faça o clone do repositório
 `
-
 git clone https://github.com/DgSantos017/node-youtube
 
 `
 
 #### 2 - entre no diretório do projeto
 `
-
 cd node-youtube
 
 `
 
 #### 3 - instale as dependencias
 `
-
 yarn
 
 `
@@ -28,7 +25,6 @@ yarn
 #### 4 - incicie o servidor de desenvolvimento
 
 `
-
 yarn dev
 
 `
@@ -36,7 +32,6 @@ yarn dev
 #### 5 - se estiver tudo ok, a mensagem abaixo vai aparecer no terminal
 
 `
-
 running in port 3000 OK
 
 `
